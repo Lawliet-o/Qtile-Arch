@@ -1,0 +1,17 @@
+garuda-wallpapers-extra
+libreoffice-fresh
+libmythes
+firefox
+chromium
+thunderbird
+thunderbird
+skypeforlinux-stable-bin
+slack-desktop
+xdman
+vlc
+gimp
+code
+atom
+pycharm-community-edition
+docker
+docker-compose
