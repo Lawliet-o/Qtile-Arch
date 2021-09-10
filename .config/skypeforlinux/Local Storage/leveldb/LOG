@@ -1,0 +1,6 @@
+2021/09/10-18:32:03.361 d8a Reusing MANIFEST /home/lawliet/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/09/10-18:32:03.362 d8a Recovering log #15
+2021/09/10-18:32:03.362 d8a Reusing old log /home/lawliet/.config/skypeforlinux/Local Storage/leveldb/000015.log 
+2021/09/10-18:32:52.876 d8c Level-0 table #20: started
+2021/09/10-18:32:52.883 d8c Level-0 table #20: 83317 bytes OK
+2021/09/10-18:32:52.895 d8c Delete type=0 #15

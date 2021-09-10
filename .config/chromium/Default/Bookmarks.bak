@@ -1,0 +1,61 @@
+{
+   "checksum": "3c9a9a1ae0b7bd3f75439f80247cb02a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13102446837000000",
+            "guid": "c52efdd5-f294-4bf9-aa80-976edcf2f4db",
+            "id": "5",
+            "name": "Garuda Linux",
+            "type": "url",
+            "url": "https://garudalinux.org/"
+         }, {
+            "date_added": "13102446886000000",
+            "guid": "335d09dd-279b-4625-9208-3c98be9cad37",
+            "id": "6",
+            "name": "Wiki",
+            "type": "url",
+            "url": "https://wiki.garudalinux.org/"
+         }, {
+            "date_added": "13102446920000000",
+            "guid": "8384d334-683b-4f51-8d49-68382d847f82",
+            "id": "7",
+            "name": "Garuda Forum",
+            "type": "url",
+            "url": "https://forum.garudalinux.org/"
+         }, {
+            "date_added": "13102446920000000",
+            "guid": "d7d899cc-6ce3-4034-948b-6ad98ed3bc2c",
+            "id": "8",
+            "name": "UptimeRobot",
+            "type": "url",
+            "url": "https://stats.uptimerobot.com/RwpoGIrmnJ"
+         } ],
+         "date_added": "13271629645917933",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13271629645917936",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13271629645917937",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Marcadores del móvil",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,7 @@
+#Systrays
+udiskie -t &
+nm-applet &
+# Composer
+#picom &
+#Wallpaper
+feh --bg-scale /home/lawliet/Imágenes/wallpapers/abstract.png

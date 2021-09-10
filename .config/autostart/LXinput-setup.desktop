@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Inicio automático de LXInput
+Comment=Configurar el teclado y el ratón usando los ajustes realizados con LXInput
+NoDisplay=true
+Exec=sh -c 'xset m 10/10 100 r rate 500 30 b on'
+NotShowIn=GNOME;KDE;XFCE;

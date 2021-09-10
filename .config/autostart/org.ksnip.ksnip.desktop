@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Utility;
+Comment=Cross-platform screenshot tool that provides many annotation features for your screenshots.
+Exec=ksnip
+GenericName=ksnip Screenshot Tool
+Icon=ksnip
+Name=ksnip
+StartupNotify=false
+Terminal=false
+TryExec=ksnip
+Type=Application

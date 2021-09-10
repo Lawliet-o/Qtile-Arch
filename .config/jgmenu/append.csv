@@ -1,0 +1,4 @@
+^sep()
+Restart,reboot
+Log Out,pkill qtile
+Power Off,pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY HOME=$HOME systemctl poweroff

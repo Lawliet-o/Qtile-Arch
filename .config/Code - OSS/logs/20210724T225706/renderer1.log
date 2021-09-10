@@ -1,0 +1,4 @@
+[2021-07-24 22:57:10.963] [renderer1] [error] XHR failed: Error: XHR failed
+    at XMLHttpRequest.w.onerror (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:76:24456)
+[2021-07-24 23:07:34.753] [renderer1] [error] XHR failed: Error: XHR failed
+    at XMLHttpRequest.w.onerror (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:76:24456)

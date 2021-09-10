@@ -1,0 +1,634 @@
+[07/25/21, 02:10:44:535] info: 
+╔════════════════════════════════════════════════════════╗
+║      Slack 4.17.0, linux 5.13.4-zen2-1-zen on x64      ║
+╚════════════════════════════════════════════════════════╝ 
+[07/25/21, 02:10:44:535] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 3
+}
+[07/25/21, 02:10:44:535] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Europe/Madrid",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.17.0",
+  "PACKAGE_MANIFEST.commit": "73b05b8",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[07/25/21, 02:10:44:536] info: Starting Sentry 
+[07/25/21, 02:10:44:536] info: Creating desktop interface object 
+[07/25/21, 02:10:44:536] info: Exposing context bridge 
+[07/25/21, 02:10:44:536] info: Store: WINDOW_CREATED {
+  "type": "main",
+  "id": 1,
+  "frame": {
+    "isHtmlFullScreen": false,
+    "isFullScreen": false,
+    "isMinimized": false,
+    "isMaximized": false,
+    "isVisible": false,
+    "isFocused": false,
+    "bounds": {
+      "x": 560,
+      "y": 240,
+      "width": 800,
+      "height": 600
+    }
+  }
+} 
+[07/25/21, 02:10:44:536] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 1,
+  "interval": 71
+} 
+[07/25/21, 02:10:44:536] info: Store: UPDATE_SETTINGS {
+  "keyboardLayout": "es"
+} 
+[07/25/21, 02:10:44:536] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "unloaded"
+} 
+[07/25/21, 02:10:44:536] warn: TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[07/25/21, 02:10:44:536] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "loaded"
+} 
+[07/25/21, 02:10:44:536] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 2,
+  "interval": 604
+} 
+[07/25/21, 02:10:44:536] info: Store: MAIN_WINDOW_SHOWN  
+[07/25/21, 02:10:44:536] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 448,
+      "y": 156,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[07/25/21, 02:10:44:536] info: Store: CLEAR_NOTIFICATIONS  
+[07/25/21, 02:10:44:537] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "type": "app",
+  "history": "[REDACTED]"
+} 
+[07/25/21, 02:10:44:881] info: Network status check {
+  "elapsed_time_ms": 206,
+  "navigator_online": true,
+  "api_test": "online"
+} 
+[07/25/21, 02:10:44:883] info: Store: SET_NETWORK_STATUS online 
+[07/25/21, 02:10:45:535] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 0,
+      "y": 24,
+      "width": 1920,
+      "height": 1056
+    }
+  }
+} 
+[07/25/21, 02:11:43:824] info: Store: UPDATE_SETTINGS {
+  "lastClogForProxyInfo": 1627171903823
+} 
+[08/31/21, 23:47:04:062] info: 
+╔════════════════════════════════════════════════════════╗
+║      Slack 4.19.2, linux 5.13.4-zen2-1-zen on x64      ║
+╚════════════════════════════════════════════════════════╝ 
+[08/31/21, 23:47:04:062] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 3
+}
+[08/31/21, 23:47:04:062] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Europe/Madrid",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.19.2",
+  "PACKAGE_MANIFEST.commit": "b92697c",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/31/21, 23:47:04:062] info: Starting Sentry 
+[08/31/21, 23:47:04:062] info: Creating desktop interface object 
+[08/31/21, 23:47:04:062] info: Exposing context bridge 
+[08/31/21, 23:47:04:062] info: Store: WINDOW_CREATED {
+  "type": "main",
+  "id": 1,
+  "frame": {
+    "isHtmlFullScreen": false,
+    "isFullScreen": false,
+    "isMinimized": false,
+    "isMaximized": false,
+    "isVisible": false,
+    "isFocused": false,
+    "bounds": {
+      "x": 0,
+      "y": 24,
+      "width": 1920,
+      "height": 1056
+    }
+  }
+} 
+[08/31/21, 23:47:04:062] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 1,
+  "interval": 71
+} 
+[08/31/21, 23:47:04:062] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "unloaded"
+} 
+[08/31/21, 23:47:04:062] warn: TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[08/31/21, 23:47:04:063] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "loaded"
+} 
+[08/31/21, 23:47:04:063] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 2,
+  "interval": 657
+} 
+[08/31/21, 23:47:04:063] info: Store: MAIN_WINDOW_SHOWN  
+[08/31/21, 23:47:04:063] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 0,
+      "y": 24,
+      "width": 1920,
+      "height": 1056
+    }
+  }
+} 
+[08/31/21, 23:47:04:063] info: Store: CLEAR_NOTIFICATIONS  
+[08/31/21, 23:47:04:064] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "type": "app",
+  "history": "[REDACTED]"
+} 
+[08/31/21, 23:47:04:355] info: Network status check {
+  "elapsed_time_ms": 215,
+  "navigator_online": true,
+  "api_test": "online"
+} 
+[08/31/21, 23:47:04:356] info: Store: SET_NETWORK_STATUS online 
+[08/31/21, 23:47:05:115] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:47:12:716] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:47:16:337] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:47:40:653] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:47:43:504] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:47:47:133] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:47:55:992] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 4,
+      "y": 28,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:48:03:348] info: Store: UPDATE_SETTINGS {
+  "lastClogForProxyInfo": 1630446483348
+} 
+[08/31/21, 23:48:13:627] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:48:15:046] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 4,
+      "y": 28,
+      "width": 1274,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:48:20:963] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 4,
+      "y": 28,
+      "width": 1274,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:48:33:715] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 1274,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:50:30:724] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 4,
+      "y": 28,
+      "width": 1274,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:50:31:769] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 4,
+      "y": 28,
+      "width": 1274,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:50:33:584] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 1274,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:50:37:886] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 1274,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:51:34:213] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[08/31/21, 23:51:44:214] info: Store: SET_SYSTEM_IDLE active 
+[08/31/21, 23:51:56:358] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 1274,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:53:14:278] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[08/31/21, 23:54:24:334] info: Store: SET_SYSTEM_IDLE active 
+[08/31/21, 23:54:31:876] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 1274,
+      "height": 1406
+    }
+  }
+} 
+[08/31/21, 23:55:43:788] info: Store: QUIT_APP  
+[08/31/21, 23:55:43:803] info: Store: DOWNLOADS_CLEANED_UP  
+[08/31/21, 23:55:43:810] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "page-closed"
+} 
+[09/01/21, 00:02:39:973] info: 
+╔═════════════════════════════════════════════════════════╗
+║      Slack 4.19.2, linux 5.13.13-zen1-1-zen on x64      ║
+╚═════════════════════════════════════════════════════════╝ 
+[09/01/21, 00:02:39:973] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 3
+}
+[09/01/21, 00:02:39:973] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Europe/Madrid",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.19.2",
+  "PACKAGE_MANIFEST.commit": "b92697c",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[09/01/21, 00:02:39:973] info: Starting Sentry 
+[09/01/21, 00:02:39:974] info: Creating desktop interface object 
+[09/01/21, 00:02:39:974] info: Exposing context bridge 
+[09/01/21, 00:02:39:974] info: Store: WINDOW_CREATED {
+  "type": "main",
+  "id": 1,
+  "frame": {
+    "isHtmlFullScreen": false,
+    "isFullScreen": false,
+    "isMinimized": false,
+    "isMaximized": false,
+    "isVisible": false,
+    "isFocused": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 1274,
+      "height": 1406
+    }
+  }
+} 
+[09/01/21, 00:02:39:974] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 1,
+  "interval": 71
+} 
+[09/01/21, 00:02:39:974] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "unloaded"
+} 
+[09/01/21, 00:02:39:974] warn: TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[09/01/21, 00:02:39:974] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "loaded"
+} 
+[09/01/21, 00:02:39:974] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 2,
+  "interval": 480
+} 
+[09/01/21, 00:02:39:974] info: Store: MAIN_WINDOW_SHOWN  
+[09/01/21, 00:02:39:974] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 1274,
+      "height": 1406
+    }
+  }
+} 
+[09/01/21, 00:02:39:974] info: Store: CLEAR_NOTIFICATIONS  
+[09/01/21, 00:02:39:975] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "type": "app",
+  "history": "[REDACTED]"
+} 
+[09/01/21, 00:02:40:506] info: Network status check {
+  "elapsed_time_ms": 218,
+  "navigator_online": true,
+  "api_test": "online"
+} 
+[09/01/21, 00:02:40:507] info: Store: SET_NETWORK_STATUS online 
+[09/01/21, 00:02:41:027] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[09/01/21, 00:02:49:752] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[09/01/21, 00:02:58:975] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 4,
+      "y": 28,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[09/01/21, 00:03:44:930] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[09/01/21, 00:03:46:786] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[09/01/21, 00:06:46:465] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[09/01/21, 00:06:49:835] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 4,
+      "y": 28,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[09/01/21, 00:08:06:957] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[09/01/21, 00:08:10:782] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[09/01/21, 00:10:39:628] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[09/01/21, 00:10:45:159] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 
+[09/01/21, 00:10:47:788] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 5,
+      "y": 29,
+      "width": 2550,
+      "height": 1406
+    }
+  }
+} 

@@ -1,0 +1,9 @@
+{
+ "restore.stream.Output/Audio.application.name:FireDragon": { "volume": 1.000000, "mute": false, "volumes": [ 0.000000 ], "channels": [ "MONO" ] },
+ "restore.stream.Input/Audio.application.name:Control de Volumen de PulseAudio": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
+ "restore.stream.Output/Audio.media.role:Notification": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
+ "restore.stream.Audio/Sink.node.name:alsa_output.pci-0000_0e_00.4.pro-output-0": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000, 1.000000, 1.000000, 1.000000, 1.000000 ], "channels": [ "UNK", "UNK", "UNK", "UNK", "UNK", "UNK" ] },
+ "restore.stream.Audio/Sink.node.name:alsa_output.pci-0000_0e_00.4.pro-output-1": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "UNK", "UNK" ] },
+ "restore.stream.Audio/Source.node.name:alsa_input.pci-0000_0e_00.4.pro-input-0": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "UNK", "UNK" ] },
+ "restore.stream.Audio/Source.node.name:alsa_input.pci-0000_0e_00.4.pro-input-2": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "UNK", "UNK" ] }
+}

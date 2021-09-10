@@ -1,0 +1,17 @@
+{
+  "default.route.alsa_card.pci-0000_0c_00.1:profile:off": [ ],
+  "default.route.alsa_card.pci-0000_0e_00.4:profile:off": [ ],
+  "default.route.alsa_card.pci-0000_0c_00.1:profile:output:hdmi-stereo-extra3": [ "hdmi-output-3" ],
+  "default.route.alsa_card.pci-0000_0e_00.4:profile:output:iec958-stereo": [ ],
+  "default.route.alsa_card.pci-0000_0e_00.4:profile:output:analog-stereo": [ "analog-output-lineout" ],
+  "default.route.alsa_card.pci-0000_0e_00.4:profile:output:iec958-stereo+input:analog-stereo": [ "analog-input-front-mic" ],
+  "default.route.alsa_card.pci-0000_0e_00.4:output:analog-output-headphones": { "mute": false, "volumes": [ 0.441775, 0.441775 ], "channels": [ "FL", "FR" ] },
+  "default.route.alsa_card.pci-0000_0e_00.4:output:iec958-stereo-output": { "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
+  "default.route.alsa_card.pci-0000_0c_00.1:output:hdmi-output-3": { "mute": false, "volumes": [ 0.438359, 0.438359 ], "channels": [ "FL", "FR" ] },
+  "default.route.alsa_card.pci-0000_0e_00.4:input:analog-input-front-mic": { "mute": false, "volumes": [ 0.399992, 0.399992 ], "channels": [ "FL", "FR" ] },
+  "default.route.alsa_card.pci-0000_0e_00.4:profile:output:analog-stereo+input:analog-stereo": [ "analog-output-headphones" ],
+  "default.route.alsa_card.pci-0000_0e_00.4:profile:pro-audio": [ ],
+  "default.route.alsa_card.pci-0000_0e_00.4:profile:output:analog-surround-41": [ ],
+  "default.route.alsa_card.pci-0000_0e_00.4:profile:output:analog-surround-51": [ ],
+  "default.route.alsa_card.pci-0000_0e_00.4:output:analog-output-lineout": { "mute": false, "volumes": [ 0.399992, 0.399992 ], "channels": [ "FL", "FR" ] }
+}

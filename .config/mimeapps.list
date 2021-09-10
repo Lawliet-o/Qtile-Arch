@@ -1,0 +1,28 @@
+[Default Applications]
+x-scheme-handler/http=chromium.desktop
+x-scheme-handler/https=chromium.desktop
+x-scheme-handler/chrome=firedragon.desktop
+text/html=chromium.desktop
+application/x-extension-htm=firedragon.desktop
+application/x-extension-html=firedragon.desktop
+application/x-extension-shtml=firedragon.desktop
+application/xhtml+xml=firedragon.desktop
+application/x-extension-xhtml=firedragon.desktop
+application/x-extension-xht=firedragon.desktop
+inode/directory=thunar.desktop
+x-scheme-handler/about=chromium.desktop
+x-scheme-handler/unknown=chromium.desktop
+
+[Added Associations]
+x-scheme-handler/http=firedragon.desktop;
+x-scheme-handler/https=firedragon.desktop;
+x-scheme-handler/chrome=firedragon.desktop;
+text/html=firedragon.desktop;
+application/x-extension-htm=firedragon.desktop;
+application/x-extension-html=firedragon.desktop;
+application/x-extension-shtml=firedragon.desktop;
+application/xhtml+xml=firedragon.desktop;
+application/x-extension-xhtml=firedragon.desktop;
+application/x-extension-xht=firedragon.desktop;
+application/zip=xarchiver.desktop;
+image/jpeg=feh.desktop;

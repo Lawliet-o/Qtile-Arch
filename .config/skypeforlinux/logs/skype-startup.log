@@ -1,0 +1,8 @@
+[3477:0910/183203.468126:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[3046:0910/183203.557807:ERROR:browser_main_loop.cc(271)] Gdk: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
+    at /usr/share/skypeforlinux/resources/app.asar/main.js:2:631846
+    at async electron/js2c/browser_init.js:205:563
+ioctl failed for wlan0, errno = 19 (No existe el dispositivo)
+ioctl failed for wlp2s0, errno = 19 (No existe el dispositivo)
+ioctl failed for wlp3s0, errno = 19 (No existe el dispositivo)

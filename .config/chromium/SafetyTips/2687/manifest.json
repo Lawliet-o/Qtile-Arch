@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "safetyTips",
+  "version": "2687",
+  "imageName": "image.squash",
+  "squash": true,
+  "fsType": "squashfs",
+  "isRemovable": false
+}

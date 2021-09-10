@@ -1,0 +1,14 @@
+2021/09/01-00:00:57.538 1ea8 Reusing MANIFEST /home/lawliet/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/09/01-00:00:57.538 1ea8 Recovering log #12
+2021/09/01-00:00:57.538 1ea8 Reusing old log /home/lawliet/.config/skypeforlinux/Local Storage/leveldb/000012.log 
+2021/09/01-00:02:59.722 1f98 Level-0 table #16: started
+2021/09/01-00:02:59.729 1f98 Level-0 table #16: 73276 bytes OK
+2021/09/01-00:02:59.742 1f98 Delete type=0 #12
+2021/09/01-00:02:59.742 1f98 Compacting 4@0 + 0@1 files
+2021/09/01-00:02:59.749 1f98 Generated table #17@0: 13 keys, 73269 bytes
+2021/09/01-00:02:59.749 1f98 Compacted 4@0 + 0@1 files => 73269 bytes
+2021/09/01-00:02:59.761 1f98 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/01-00:02:59.761 1f98 Delete type=2 #7
+2021/09/01-00:02:59.761 1f98 Delete type=2 #10
+2021/09/01-00:02:59.761 1f98 Delete type=2 #13
+2021/09/01-00:02:59.761 1f98 Delete type=2 #16

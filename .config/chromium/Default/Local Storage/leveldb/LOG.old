@@ -1,0 +1,9 @@
+2021/09/01-00:00:57.442 3 Reusing MANIFEST /home/lawliet/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/09/01-00:00:57.443 3 Recovering log #152
+2021/09/01-00:00:57.444 3 Reusing old log /home/lawliet/.config/chromium/Default/Local Storage/leveldb/000152.log 
+2021/09/01-00:02:10.997 7 Level-0 table #156: started
+2021/09/01-00:02:11.016 7 Level-0 table #156: 83674 bytes OK
+2021/09/01-00:02:11.034 7 Delete type=0 #152
+2021/09/01-00:06:10.996 7 Level-0 table #158: started
+2021/09/01-00:06:11.011 7 Level-0 table #158: 82962 bytes OK
+2021/09/01-00:06:11.023 7 Delete type=0 #155

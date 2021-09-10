@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=System;Monitor;
+Comment=Does the initial user setup
+Exec=systemctl --user enable --now psd;systemctl --user enable --now pulseaudio-bluetooth-autoconnect;systemctl --user enable --now gamemoded;systemctl --user enable --now libinput-gestures;setup_dxvk install;mv ~/.bashrc_garuda ~/.bashrc;rm ~/.config/autostart/initial-user-setup.desktop
+Icon=setup
+Name=Initial user setup
+StartupNotify=false
+Terminal=false
+Type=Application

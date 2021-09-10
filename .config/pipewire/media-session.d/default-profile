@@ -1,0 +1,3 @@
+{
+  "default.profile.alsa_card.pci-0000_0e_00.4": { "name": "output:analog-stereo" }
+}

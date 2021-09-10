@@ -1,0 +1,7 @@
+2021/07/26-02:51:40.946 37cca Reusing MANIFEST /home/lawliet/.config/chromium/Default/IndexedDB/https_htmlcolorcodes.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/26-02:51:40.946 37cca Recovering log #3
+2021/07/26-02:51:40.946 37cca Reusing old log /home/lawliet/.config/chromium/Default/IndexedDB/https_htmlcolorcodes.com_0.indexeddb.leveldb/000003.log 
+2021/07/26-02:51:44.002 37cc2 Level-0 table #5: started
+2021/07/26-02:51:44.008 37cc2 Level-0 table #5: 359 bytes OK
+2021/07/26-02:51:44.021 37cc2 Delete type=0 #3
+2021/07/26-02:51:44.021 37cc2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
